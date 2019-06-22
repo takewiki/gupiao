@@ -1,6 +1,6 @@
-if (!require('quantmod')){
-  install.packages('quantmod')
-}
+# if (!require('quantmod')){
+#   install.packages('quantmod')
+# }
 
 library(quantmod)
 library(zoo)
