@@ -1,6 +1,8 @@
+# global setting
 # if (!require('quantmod')){
 #   install.packages('quantmod')
 # }
+
 
 library(quantmod)
 library(zoo)
